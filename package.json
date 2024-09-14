@@ -1,6 +1,6 @@
 {
-  "name": "Atividade_Diferente",
-  "version": "1.0.1",
+  "name": "Atividade",
+  "version": "1.0.0",         
   "devDependencies": {
     "nodemon": "^3.1.4"
   }
